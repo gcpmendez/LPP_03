@@ -1,1 +1,3 @@
-Trabajo en equipo con git
+Los compilados traducen todas sus instrucciones al código máquina para que el programa se pueda ejecutar más rápido (crea un archivo ejecutable .exe)
+
+Y los interpretados traducen intrucciones una por una, es por eso que son más lentos que los compilados. Y no crean archivos .exe, crean una ejecución inmediata.
