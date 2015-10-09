@@ -1,0 +1,8 @@
+# ------ Para evitar almacenar los ficheros acabados en ~ ------
+*~
+# ------ Para evitar almacenar los ficheros con extensión .o ------
+*.o
+# ------ Para evitar almacenar los ficheros con extensión .class ------
+*.class
+# ------ Para evitar almacenar los ficheros con extensión .tgz ------
+*.tgz
