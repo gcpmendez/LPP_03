@@ -4,4 +4,4 @@ Práctica de laboratorio #2
 
 #### Miembros del equipo:
 * Germán Paz Méndez
-* Ruben
+* Rubén Labrador Paez
